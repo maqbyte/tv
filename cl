@@ -113,7 +113,7 @@ https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 https://stream-us-east-1.getpublica.com/cl/250727d23463jj1emfhk4lk1pg/1280x720_1500000_0_f.m3u8?i=1187_13012
 #EXTINF:-1 tvg-id="" tvg-name="Toon Goggles" tvg-logo="https://i.ibb.co/Vc0x74q7/toongoggles.png" group-title="Animación",Toon Goggles
 https://stream.ads.ottera.tv/cl/250727d234abu1a3d4jmm1ikrg/1280x720_3071200_0_f.m3u8?i=475_514
-#EXTINF:-1 tvg-id="" tvg-name="Xataka" tvg-logo="https://i.ibb.co/1B2SqH1/xataka.png" group-title="Tecnología",Xataka
+#EXTINF:-1 tvg-id="101" tvg-name="Xataka" tvg-logo="https://i.ibb.co/1B2SqH1/xataka.png" group-title="Tecnología",Xataka
 https://wbd-xat.otteravision.com/wbd/xat/xat_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Esports Max" tvg-logo="https://i.ibb.co/8gZyxbFS/esportsmax.png" group-title="Gamer",Esports Max
 https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8
@@ -123,9 +123,9 @@ https://linear-46.frequency.stream/dist/distrotv/46/hls/master/playlist_1280x720
 https://d2zq3jgz2yetok.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-71a686zhs51em/6d59c06e-4b45-4ec8-adc7-6f942e7694fa/4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Los Pitufos" tvg-logo="https://i.ibb.co/prjN2ytC/lospitufos.png" group-title="24x7",Los Pitufos
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vivir con Perros" tvg-logo="https://i.ibb.co/Y7vH5yS5/vivirperros.png" group-title="24x7",Vivir con Perros
+#EXTINF:-1 tvg-id="322" tvg-name="Vivir con Perros" tvg-logo="https://i.ibb.co/Y7vH5yS5/vivirperros.png" group-title="24x7",Vivir con Perros
 https://d2hv77yguxdxtu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/ea1cfa88-25a8-4b4e-97ae-d393c0b7cdc8/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vivir con Gatos" tvg-logo="https://i.ibb.co/vCVq5QZr/vivirgatos.png" group-title="24x7",Vivir con Gatos
+#EXTINF:-1 tvg-id="305" tvg-name="Vivir con Gatos" tvg-logo="https://i.ibb.co/vCVq5QZr/vivirgatos.png" group-title="24x7",Vivir con Gatos
 https://d2ocvc6amhp1qj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/4b4a0687-9f5b-4e21-8748-09918e3e2ad8/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV" tvg-logo="https://m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Música",Retro Plus TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
