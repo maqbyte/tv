@@ -69,9 +69,9 @@ https://v1.tustreaming.cl/frecuencia1tv/index.m3u8?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="La Nuestra" tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png" group-title="Radios",La Nuestra
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Sony Movie Channel.us" tvg-name="Sony" tvg-logo="https://m3u.cl/logo/63377_SONY_Channel.png" group-title="Peliculas",Sony Channel
+#EXTINF:-1 tvg-id="SONY.mx" tvg-name="Sony" tvg-logo="https://m3u.cl/logo/63377_SONY_Channel.png" group-title="Peliculas",Sony Channel
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 tvg-id="SONY MOVIES.mx" tvg-name="Sony Cine" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Sony Cine
+#EXTINF:-1 tvg-id="" tvg-name="Sony Cine" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Peliculas",Retro Plus TV Señal 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
