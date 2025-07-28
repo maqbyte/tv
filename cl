@@ -69,9 +69,9 @@ https://v1.tustreaming.cl/frecuencia1tv/index.m3u8?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="La Nuestra" tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png" group-title="Radios",La Nuestra
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="0806" tvg-name="Sony" tvg-logo="https://m3u.cl/logo/63377_SONY_Channel.png" group-title="Peliculas",Sony Channel
+#EXTINF:-1 tvg-id="Sony Movie Channel.us" tvg-name="Sony" tvg-logo="https://m3u.cl/logo/63377_SONY_Channel.png" group-title="Peliculas",Sony Channel
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Cine" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Sony Cine
+#EXTINF:-1 tvg-id="SONY MOVIES.mx" tvg-name="Sony Cine" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Peliculas",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Peliculas",Retro Plus TV Señal 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
@@ -81,15 +81,15 @@ https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL
 https://de9yx47crxs6l.cloudfront.net/playlist_7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Comedia" tvg-logo="https://i.ibb.co/BHyqzStc/sonyone.png" group-title="Peliculas",Sony Comedia
 https://d3m8rnla2v9m5d.cloudfront.net/playlist_10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Runtime Cine" tvg-logo="https://i.ibb.co/C3BrY493/runtime.png" group-title="Peliculas",Runtime Cine
+#EXTINF:-1 tvg-id="Runtime.es" tvg-name="Runtime Cine" tvg-logo="https://i.ibb.co/C3BrY493/runtime.png" group-title="Peliculas",Runtime Cine
 https://run-rt-es.otteravision.com/run/rt_es/rt_es_720p_high.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="Runtime Acción" tvg-logo="https://i.ibb.co/C3BrY493/runtime.png" group-title="Peliculas",Runtime Acción
+#EXTINF:-1 tvg-id="Runtime Accion.es" tvg-name="Runtime Acción" tvg-logo="https://i.ibb.co/C3BrY493/runtime.png" group-title="Peliculas",Runtime Acción
 https://run-ra-es.otteravision.com/run/ra_es/ra_es_720.m3u8
-#EXTINF:-1 tvg-id="94" tvg-name="Runtime Comedia" tvg-logo="https://i.ibb.co/C3BrY493/runtime.png" group-title="Peliculas",Runtime Comedia
+#EXTINF:-1 tvg-id="Runtime Comedia.es" tvg-name="Runtime Comedia" tvg-logo="https://i.ibb.co/C3BrY493/runtime.png" group-title="Peliculas",Runtime Comedia
 https://run-rc-es.otteravision.com/run/rc_es/rc_es_720.m3u8
-#EXTINF:-1 tvg-id="92" tvg-name="Runtime Romance" tvg-logo="https://i.ibb.co/C3BrY493/runtime.png" group-title="Peliculas",Runtime Romance
+#EXTINF:-1 tvg-id="Runtime Romance.es" tvg-name="Runtime Romance" tvg-logo="https://i.ibb.co/C3BrY493/runtime.png" group-title="Peliculas",Runtime Romance
 https://run-rr-es.otteravision.com/run/rr_es/rr_es_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinema +" tvg-logo="https://i.ibb.co/27GpRVqJ/cinema.png" group-title="Peliculas",Cinema +
+#EXTINF:-1 tvg-id="Cinema+.pe" tvg-name="Cinema +" tvg-logo="https://i.ibb.co/27GpRVqJ/cinema.png" group-title="Peliculas",Cinema +
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FreeTV Acción" tvg-logo="https://i.ibb.co/G3fS8BmR/freetvaction.png" group-title="Peliculas",FreeTV Acción
 https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-olympusat-topcinelatam-ono/cb553d1d7a6c64879cd43e61d9ef42a3dc242ffc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27751cd9e0a957f378bbdbe306f2c180680585ee2be5da5ef940912c76da2b902488b2f5be79056cb854fb3d4d70a9d5e8027a71d8093f1ddd30dd0d4c06ab452e3655a0a762dc8d22cc19f6fa8b0ea019322fc493c7c76cae1f6dd46358a423124929df89e15319753eb5fec5338ae14900fa53d8f79a30aa69b23c857095323335f94c5497326aca7d7e269bfbfdc14998fc5a71f5198e3187d07fb68df2b2436da9d9952eca964b57b2a3ba51b3f98b90623a4659e16de10c73abd28cfd5fd9b3c0d7d620a168f5ca595577c48b76585c10928504145e2cf1b94c69169396c4b89974d943d2ff98adbcd8f557bfd69150cbc3b9943533885744d6cf521fcad396ea22f1eca606eac1666d602b49304c18af7a94637bcd5c202d86aecbe059bb621a17f335407fca37f070b1c3380a0364d0378c544f6da85b4245e4ebfa18ddbc45477566a4f1c5cc5b2a920e9fbaa432a1fcf572977675046c676b147eb4018506099649cc660598c053322f5a839492805bbc1b29388c5c542a105bdeaf93e2a7b14238a3a0b2261c4a5cf3ed93d58756e5290050712ec5042230af4457c61240818db7dcacb202d9d9feb65cc873d2f72/117/1280x720_3329040/index.m3u8
@@ -111,9 +111,9 @@ https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZazTV" tvg-logo="https://i.ibb.co/j94HM1mG/zaztv.png" group-title="Animación",ZazTV
 https://stream-us-east-1.getpublica.com/cl/250727d23463jj1emfhk4lk1pg/1280x720_1500000_0_f.m3u8?i=1187_13012
-#EXTINF:-1 tvg-id="" tvg-name="Toon Goggles" tvg-logo="https://i.ibb.co/Vc0x74q7/toongoggles.png" group-title="Animación",Toon Goggles
+#EXTINF:-1 tvg-id="Toon Goggles.es" tvg-name="Toon Goggles" tvg-logo="https://i.ibb.co/Vc0x74q7/toongoggles.png" group-title="Animación",Toon Goggles
 https://stream.ads.ottera.tv/cl/250727d234abu1a3d4jmm1ikrg/1280x720_3071200_0_f.m3u8?i=475_514
-#EXTINF:-1 tvg-id="101" tvg-name="Xataka" tvg-logo="https://i.ibb.co/1B2SqH1/xataka.png" group-title="Tecnología",Xataka
+#EXTINF:-1 tvg-id="Xataka.es" tvg-name="Xataka" tvg-logo="https://i.ibb.co/1B2SqH1/xataka.png" group-title="Tecnología",Xataka
 https://wbd-xat.otteravision.com/wbd/xat/xat_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Esports Max" tvg-logo="https://i.ibb.co/8gZyxbFS/esportsmax.png" group-title="Gamer",Esports Max
 https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8
@@ -123,9 +123,9 @@ https://linear-46.frequency.stream/dist/distrotv/46/hls/master/playlist_1280x720
 https://d2zq3jgz2yetok.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-71a686zhs51em/6d59c06e-4b45-4ec8-adc7-6f942e7694fa/4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Los Pitufos" tvg-logo="https://i.ibb.co/prjN2ytC/lospitufos.png" group-title="24x7",Los Pitufos
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs_720.m3u8
-#EXTINF:-1 tvg-id="322" tvg-name="Vivir con Perros" tvg-logo="https://i.ibb.co/Y7vH5yS5/vivirperros.png" group-title="24x7",Vivir con Perros
+#EXTINF:-1 tvg-id="Vivir con perros.es" tvg-name="Vivir con Perros" tvg-logo="https://i.ibb.co/Y7vH5yS5/vivirperros.png" group-title="24x7",Vivir con Perros
 https://d2hv77yguxdxtu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/ea1cfa88-25a8-4b4e-97ae-d393c0b7cdc8/0.m3u8
-#EXTINF:-1 tvg-id="305" tvg-name="Vivir con Gatos" tvg-logo="https://i.ibb.co/vCVq5QZr/vivirgatos.png" group-title="24x7",Vivir con Gatos
+#EXTINF:-1 tvg-id="Vivir con gatos.es" tvg-name="Vivir con Gatos" tvg-logo="https://i.ibb.co/vCVq5QZr/vivirgatos.png" group-title="24x7",Vivir con Gatos
 https://d2ocvc6amhp1qj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/4b4a0687-9f5b-4e21-8748-09918e3e2ad8/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV" tvg-logo="https://m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Música",Retro Plus TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
