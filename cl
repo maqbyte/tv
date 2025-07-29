@@ -19,8 +19,6 @@ https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
 #EXTINF:-1 tvg-id="0214" tvg-name="T13" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" group-title="Nacional",T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png" group-title="Nacional",T13 Radio
-https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="0161" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="Nacional",13 Cultura
 https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" group-title="Nacional",13 Cocina
@@ -67,6 +65,8 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 https://v1.tustreaming.cl/frecuencia1tv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="Cooperativa" tvg-logo="https://cdn.m3u.cl/logo/422_Cooperativa.png" group-title="Radios",Radio Cooperativa
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png" group-title="Radios",T13 Radio
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="La Nuestra" tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png" group-title="Radios",La Nuestra
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="SONY.mx" tvg-name="Sony" tvg-logo="https://m3u.cl/logo/63377_SONY_Channel.png" group-title="Peliculas",Sony Channel
@@ -97,7 +97,7 @@ https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-oly
 https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/playlist/amg01024-olympusat-juntos-ono/cb553d1d7a6c64879cd43e61d9ef42a3dc242ffc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27751cd9e0a957f378bbdbe306f2c180680585ee2be5da5ef940912c76da2b902488b2f5be79056cdd44fead6d00d975e8027a71d8093f1ddd30d8b8fc565b450b431580e737ec8862dc2cc6fa8b0ea019322fc493c7c76cae1f6dd46358a423124929df89e15319753eb5fec5338ae14900fa53d8f79a30aa69b23c857095323335f94c5497326aca7d7e269bfbfdc14998fc5a71f5198e3187d07fb68df2b2436da9d9952eca964b57b2a3ba51b3f98b90623a4659e16de10c73abd28cfd5fd9b3c0d7d620a168f5ca595577c48b76585c10928504145e2cf1b94c69169396c4b89974d943d2ff98adbcd8f557bfd69150cbc3b9943533885744d6cf521fcad396ea22f1eca606eac1666d602b49304c18af7a94637bcd5c202d86aecbe059bb621a17f335407fca37f070b1c3380a0364d0378c544f6da85b4245e4ebfa18ddbc45477566a4f1c5cc5b2a920e9fbaa432a1fcf572977675046c676b147eb4018506099649cc660598c053322f5a839492805bbc1b29388c5c542a105bdeaf93e2a7b14238a3a0b2261c4a5cf3ed93d58756e529005061bec1f3ba28b64531d3de661a991a0a96eadd2439e677907028af2/81/1280x720_3329040/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SuperToons TV" tvg-logo="https://i.ibb.co/bghqSb5Q/supertoons.png" group-title="Kids",SuperToons TV
 https://jmp2.uk/sam-ESBD5100001G0.m3u8
-#EXTINF:-1 tvg-id="514" tvg-name="Nickelodeon Spain" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon Spain
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon Spain" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon Spain
 http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="0313" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png" group-title="Animación",EnerGeek Retro
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
